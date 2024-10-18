@@ -1,4 +1,5 @@
 develop a RESTful CRUD API for managing a railway management system using Spring Boot. The API should include endpoints for creating, reading, updating, and deleting resources related to trains, stations, and tickets. Additionally, the API should implement basic authentication to ensure that only authorized users can access the endpoints. 
+
 Requirements: 
 1. Resource Entities: Define data models/entities for the following resources: 
 •	Train: Include attributes such as train number, departure time, arrival time, origin station, destination station, seat capacity, and ticket price. 
