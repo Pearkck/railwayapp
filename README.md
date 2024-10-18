@@ -15,5 +15,7 @@ Requirements:
 6.	Documentation: Provide clear and concise documentation for the API, including endpoint descriptions, request/response formats, and authentication requirements. Use tools like Swagger or Spring Rest Docs to generate API documentation.
 
 swagger UI path : http://localhost:8080/swagger-ui/index.html#/
+
 spring datasource driver : Postgres
+
 spring JPA : hibernate
